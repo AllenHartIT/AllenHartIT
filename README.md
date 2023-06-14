@@ -1,5 +1,4 @@
-
-<h1>Hi there, I'm Allen, an IT Professional<a href="https://linkedin.com/in/allen-hart-073a54278>IT Professional</a>☺</h1>
+<h1>Hi, I'm Allen, an <a href="https://linkedin.com/in/allen-hart-073a54278">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
